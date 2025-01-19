@@ -1,3 +1,1 @@
-# recodificacao
-recodification
-mudar a codificação de iso-8859-1 para utf-8
+# utility  - covert encode iso-8859-1 to utf8 with exec php
